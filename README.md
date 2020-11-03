@@ -1,1 +1,1 @@
-# news-app
+# news-app on clean js
